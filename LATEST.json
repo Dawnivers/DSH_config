@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/Dawnivers/DSH_config",
+  "branch": "main",
+  "pack": "dsh-20261018-2209.zip",
+  "sizeMB": 72.56,
+  "sha256": "1C2C3ECC1A635BFA07608473AF62F1434691AC93D57A4D392F56908C32F1B85D",
+  "packedAt": "2026-10-18T22:13:35.3115979+08:00",
+  "includesAttachments": false,
+  "machine": {
+    "name": "一头大母猪",
+    "user": "林先语"
+  },
+  "pushedBy": "publish-dsh.ps1"
+}
