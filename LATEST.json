@@ -1,0 +1,22 @@
+{
+  "repo": "https://github.com/Dawnivers/DSH_config",
+  "branch": "main",
+  "pack": "dsh-20261108-2200.zip",
+  "sizeMB": 11.76,
+  "sha256": "1E62C19C7ED172FA0B0A5E75E627F1CFCE6192FF9CBEBCD180C91E9AE7F96EBC",
+  "packedAt": "2026-11-08T22:01:45.9793894+08:00",
+  "includesAttachments": false,
+  "includesSessions": false,
+  "excluded": [
+    "sessions",
+    "dsh-session-archive",
+    "ppt-master",
+    "archify",
+    "storages\\session_projcache"
+  ],
+  "machine": {
+    "name": "一头大母猪",
+    "user": "林先语"
+  },
+  "pushedBy": "publish-dsh.ps1"
+}
